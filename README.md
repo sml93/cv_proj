@@ -1,2 +1,2 @@
-# cv_proj
+# CV_proj
 Just some CV stuff
